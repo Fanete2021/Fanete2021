@@ -58,7 +58,7 @@
 
 ---
 
-<p>
+<div style="display: flex; width: 100%">
  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fanete2021&show_icons=true&locale=en&layout=compact" alt="fanete2021" />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanete2021&" alt="fanete2021" />
-</p>
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fanete2021&" alt="fanete2021" />
+</div>
