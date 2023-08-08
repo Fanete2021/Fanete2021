@@ -58,8 +58,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanete2021&show_icons=true&locale=en&layout=compact" alt="fanete2021" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fanete2021&show_icons=true&locale=en&layout=compact" alt="fanete2021" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanete2021&show_icons=true&locale=en" alt="fanete2021" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fanete2021&show_icons=true&locale=en" alt="fanete2021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanete2021&" alt="fanete2021" /></p>
